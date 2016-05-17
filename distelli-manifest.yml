@@ -1,5 +1,5 @@
 zchase/ruby-rails-compose:
-	PkgInclude:
+  PkgInclude:
     - '*'
   PreInstall:
     - echo "Starting PreInstall"
